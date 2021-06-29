@@ -1,16 +1,16 @@
 <p align="center">
-  __CSC4506: Mobile Application Development__
+  **CSC4506: Mobile Application Development**
   <br />
   (Semester 2 2020/2021)
   <br />
   Group Assignment
   <br />
   __Group Members:__
-  | Name | Matric No. |
+</p>
+ | Name | Matric No. |
   | --- | --- |
   | Nur Nabihah binti Kassims | 1819516 |
   | Wan Nurul Adibah binti Wan Tarmizi | 1814162 |
-</p>
 
 
 ## About MyBooks
