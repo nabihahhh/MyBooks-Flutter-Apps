@@ -1,9 +1,9 @@
 ## MyBooks Flutter Apps
   
-  Course Name: Mobile Application Development 
-  Course Code: CSC4506
-  Semester: Semester 2 2020/2021
-  Description: Group Project
+  Course Name: Mobile Application Development<br/> 
+  Course Code: CSC4506<br/>
+  Semester: Semester 2 2020/2021<br/>
+  Description: Group Project<br/>
   
  **Group Members**
 | Name | Matric No. |
