@@ -1,7 +1,9 @@
 # CSC4506: Mobile Application Development 
-Group Assignment
-<br />
 Semester 2 2020/2021
+<br />
+Group Assignment
+
+
 
 ## Group Members
 
