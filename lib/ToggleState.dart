@@ -50,7 +50,7 @@ class AppTab extends StatelessWidget {
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(9.0),
                             child: Image.asset(
-                              'web/icons/${deviceItem.image}',
+                              'assets/images/${deviceItem.image}',
                               width: 100.0,
                               height: 100.0,
                             ),
