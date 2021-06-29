@@ -1,17 +1,18 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'ToggleState.dart';
 import 'posts.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(MyItem());
 
-class MyApp extends StatefulWidget {
-  MyApp({Key? key}) : super(key: key);
+class MyItem extends StatefulWidget {
+  MyItem({Key? key}) : super(key: key);
 
   @override
   ItemState createState() => ItemState();
 }
 
-class ItemState extends State<MyApp> {
+class ItemState extends State<MyItem> {
   @override
   void initState() {
     super.initState();
