@@ -1,4 +1,9 @@
-## [CSC4506] Mobile Application Development Group Assignment (Semester 2 2020/2021)
+## MyBooks Flutter Apps
+  
+  Course Name: Mobile Application Development 
+  Course Code: CSC4506
+  Semester: Semester 2 2020/2021
+  Description: Group Project
   
  **Group Members**
 | Name | Matric No. |
