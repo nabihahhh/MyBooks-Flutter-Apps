@@ -5,12 +5,13 @@
   <br />
   Group Assignment
   <br />
-  __Group Members:__
+ **Group Members**
 </p>
- | Name | Matric No. |
-  | --- | --- |
-  | Nur Nabihah binti Kassims | 1819516 |
-  | Wan Nurul Adibah binti Wan Tarmizi | 1814162 |
+
+| Name | Matric No. |
+| --- | --- |
+| Nur Nabihah binti Kassims | 1819516 |
+| Wan Nurul Adibah binti Wan Tarmizi | 1814162 |
 
 
 ## About MyBooks
