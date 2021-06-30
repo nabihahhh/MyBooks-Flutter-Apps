@@ -28,6 +28,11 @@ MyBooks is a mobile application made using flutter, which is an open-source UI s
 
 ## Compilation and Running Instructions
 
+- [x] (Download and update the pubspec.yaml file)
+2. Download and update the android/build.gradle file
+3. Download and update the android/app/build.gradle
+4. Download and update the /assets/images/ file
+5. Download and update all files in /lib/ 
 
 
 
