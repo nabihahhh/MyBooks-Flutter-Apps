@@ -27,7 +27,7 @@ MyBooks is a mobile application made using flutter, which is an open-source UI s
 | List of Book Details | Display book details by using HTTP library to fetch data online (https://my-json-server.typicode.com/nabihahhh/demo/posts) |
 
 ## Compilation and Running Instructions
-<br/> 
+
 1. Download and update the pubspec.yaml file
 2. Download and update the android/build.gradle file
 3. Download and update the android/app/build.gradle file
