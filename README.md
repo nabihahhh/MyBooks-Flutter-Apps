@@ -2,12 +2,8 @@
   
 Description: A group project for Mobile Application Development course<br/> 
   
- **Collaborators**
-| Name | 
-| --- |
-| [nabihah](https://github.com/nabihahhh) | 
-| [deeb](https://github.com/deebtarmizi104) | 
-
+Collaborators: [deeb](https://github.com/deebtarmizi104) & [nabihah](https://github.com/nabihahhh) 
+  
 
 ## About MyBooks
 MyBooks is a mobile application made using flutter, which is an open-source UI software development kit created by Google. MyBooks helps user to view list of books available in the bookstore. This apps allows user to view books list and details, add books in the bookshelf. Before using the apps, user needs to create an account by sign in into the system. After successfully sign in, user can use the apps by log in into the system. With MyBooks apps, it helps user to ease their book browsing activity.
