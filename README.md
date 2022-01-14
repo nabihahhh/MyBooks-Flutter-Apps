@@ -1,15 +1,12 @@
 ## MyBooks Flutter Apps
   
-  Course Name: Mobile Application Development<br/> 
-  Course Code: CSC4506<br/>
-  Semester: Semester 2 2020/2021<br/>
-  Description: Group Project<br/>
+Description: A group project for Mobile Application Development course<br/> 
   
- **Group Members**
-| Name | Matric No. |
-| --- | --- |
-| Nur Nabihah binti Kassim | 1819516 |
-| Wan Nurul Adibah binti Wan Tarmizi | 1814162 |
+ **Collaborators**
+| Name | 
+| --- |
+| @github.com/nabihahhh | 
+| @github.com/deebtarmizi104Wan | 
 
 
 ## About MyBooks
