@@ -5,8 +5,8 @@ Description: A group project for Mobile Application Development course<br/>
  **Collaborators**
 | Name | 
 | --- |
-| @nabihahhh | 
-| @deebtarmizi104 | 
+| [nabihah](https://github.com/nabihahhh) | 
+| [deeb](https://github.com/deebtarmizi104) | 
 
 
 ## About MyBooks
